@@ -1,5 +1,7 @@
 # Happy - Website
 
+![Happy](happy-cover.png)
+
 ## Tabela de conteúdo
 - [Sobre o projeto](#sobre-o-projeto)
 - [Tecnologias usadas](#tecnologias-usadas)
