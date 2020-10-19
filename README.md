@@ -26,7 +26,6 @@ O design e estrutura do código foi feito pela equipe da [Rocketseat](https://gi
 - [React Leaflet](https://github.com/PaulLeCam/react-leaflet)
 - [Mapbox](https://www.mapbox.com/)
 - [Axios](https://github.com/axios/axios)
-- [React Navigation](https://github.com/react-navigation/react-navigation)
 
 ## Primeiros passos
 
@@ -41,35 +40,39 @@ Para rodar a aplicação, siga os passos a seguir.
 
 Além disso, também é necessário ter a API executando, para ver mais sobre a API acesse o [repositório](https://github.com/leonardonegrao/happy-api/).
 
-Por fim, o Expo é usado para rodar a aplicação e precisa ser instalado.
-
-- [Expo - Learn](https://expo.io/learn) 
-
 ### Instalação
 
 1. Clone o repositório
 ```sh
-git clone https://github.com/leonardonegrao/happy-mobile.git
+git clone https://github.com/leonardonegrao/happy-web.git
 ```
 2. Instale as dependências do projeto
 
-* Com Expo:
+* Com NPM:
 ```sh
-expo install
+npm install
+```
+
+* Com Yarn:
+```sh
+yarn
 ```
 
 ## Uso
 
 A aplicação pode ser iniciada pelo comando:
 
-* Com Expo:
+* Com NPM:
 ```sh
-expo start
+npm run start
 ```
 
-Quando o script for concluído, a aplicação será aberta no navegador padrão.
+* Com Yarn:
+```sh
+yarn start
+```
 
-Para rodar o aplicativo, porém, é preciso ter um emulador ou um dispositivo com o aplicativo Expo conectado na mesma rede que o computador.
+Quando o script for concluído, a aplicação será aberta no navegador padrão e já pode ser utilizada.
 
 ## Contato
 
@@ -77,4 +80,4 @@ Para rodar o aplicativo, porém, é preciso ter um emulador ou um dispositivo co
 
 Leonardo Negrão - [leonardolnegrao@gmail.com](mailto:leonardolnegrao@gmail.com)
 
-Link do projeto: [https://github.com/leonardonegrao/happy-mobile](https://github.com/leonardonegrao/happy-mobile)
+Link do projeto: [https://github.com/leonardonegrao/happy-web](https://github.com/leonardonegrao/happy-web)
